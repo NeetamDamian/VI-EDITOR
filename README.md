@@ -37,6 +37,17 @@ Apart from using the direction keys, the following can be used for navigation in
 
 ## Commands 
 
+| Commands      | Description              |
+|---------------|--------------------------|
+| yy            | copy a line              |
+| p             | paste                    |
+| ZZ (uppercase)| save a file              |
+| x             | delete a word(characer)  |
+| dd            | delete an entire line    |
+| d3d           | delete 3 lines           |
+| u             | undo                     |
+| CTRL + R      | Redo                     |
+
 In the command line to copy a line move the cursor to the intended line and press yy (ie y twice)
 
 To paste move the cursor to the line you want to paste to and press the p key.
@@ -57,7 +68,6 @@ The question mark also finds but it finds upwards.
 
 To scrow up or down use the CTRL + u or CTRL + d respectively.
 Typing colon ( : ) will take you to the last line.
-
 
 
 Below are some of the last line commands.
